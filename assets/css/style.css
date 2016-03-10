@@ -1,0 +1,33 @@
+body {
+margin: 0;
+}
+
+header {
+    margin-left: 193px;
+align-content: center;
+padding: 67px 0;
+
+background-color: #f1634f;
+
+}
+
+header >h1 { margin: 10;
+color: white;
+background-color: black;
+text-align: center;
+font-size: 40px;
+font-weight: 800px;
+margin: 0 0 40px 0;
+}
+
+li> a { font: left;
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+
+  }
+
+  ul> li {
+      float: left;
+      margin: 0;
