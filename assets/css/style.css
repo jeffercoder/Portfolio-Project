@@ -15,12 +15,12 @@ header >h1 { margin: 10;
 color: white;
 background-color: black;
 text-align: center;
-font-size: 40px;
+font-size: 50px;
 font-weight: 800px;
 margin: 0 0 40px 0;
 }
 
-li> a { font: left;
+li> a {
     text-decoration: none;
     color: white;
     font-weight: 500;
