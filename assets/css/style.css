@@ -16,11 +16,11 @@ color: white;
 background-color: black;
 text-align: center;
 font-size: 50px;
-font-weight: 800px;
+font-weight: 100px;
 margin: 0 0 40px 0;
 }
 
-li> a {
+li> a { float: auto;
     text-decoration: none;
     color: white;
     font-weight: 500;
