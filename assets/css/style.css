@@ -1,5 +1,7 @@
 body {
 margin: 0;
+color: rgb(3, 18, 28);
+background-color: rgb(92, 173, 150);
 }
 
 header {
@@ -21,7 +23,9 @@ header >h1 {
 }
 
 li> a {
+    margin: 10px;
     color: white;
+    background-color: rgb(5, 10, 18);
     font-weight: 500;
     font-size: 18px;
   }
@@ -34,4 +38,5 @@ header > ul {
 
 header > ul > li {
   display: inline;
+  margin: 5px;
 }
