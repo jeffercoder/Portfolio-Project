@@ -13,7 +13,7 @@ background-color: #f1634f;
 
 }
 
-header >h1 {
+header h1 {
   color: white;
   background-color: black;
   text-align: center;
@@ -22,7 +22,7 @@ header >h1 {
   margin: 0 0 40px 0;
 }
 
-li> a {
+header li> a {
     margin: 10px;
     color: white;
     background-color: rgb(5, 10, 18);
@@ -30,16 +30,24 @@ li> a {
     font-size: 18px;
   }
 
-header > ul {
+header ul {
       text-align: center;
       margin: 0 15px;
       list-style: none;
   }
 
-header > ul > li {
+header ul > li {
   display: inline;
   margin: 5px;
 }
+
 h3 > {
   background-color: rgb(212, 25, 42);
+}
+
+#about-me {
+  margin: 0 10px 60px 10px;
+}
+#about-me > h3 {
+  margin: 10px 0 10px 0
 }
