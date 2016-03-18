@@ -45,9 +45,10 @@ h3 > {
   background-color: rgb(212, 25, 42);
 }
 
-#about-me {
+/*#about-me {
   margin: 0 10px 60px 10px;
 }
-#about-me > h3 {
-  margin: 10px 0 10px 0
+#about-me h3 {
+  margin: 10px 0 10px 0px;
 }
+*/
